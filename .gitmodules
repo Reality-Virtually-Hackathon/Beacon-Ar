@@ -1,0 +1,3 @@
+[submodule "peekn/3rd-party/ARKit-CoreLocation"]
+	path = peekn/3rd-party/ARKit-CoreLocation
+	url = git@github.com:pintaric/ARKit-CoreLocation.git
